@@ -9,3 +9,4 @@ https://www.petoi.camp/forum/software/improve-gyro-delay-and-implement-ultrasoni
 
 
 The rest of the code is stored in Raspberry Pi on Bittle.
+The modieifed Bittle currently belongs to Dot Incorporation and needs follow-ups.
